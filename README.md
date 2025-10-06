@@ -63,9 +63,11 @@ chat-assistant-groq/
 ├── config.py          # Model config
 ├── .env               # Your API key
 ├── requirements.txt   # Python dependencies
+├── requirements.txt   # Python dependencies
 ├── README.md          # This file
 └── screenshots/
     └── chat_ui.png    # Example screenshot
+
 
 ## Dependencies
 
