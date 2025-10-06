@@ -56,17 +56,17 @@ streamlit run app.py
 - Toggle "Show previous chat history" to view earlier messages.
 
 ## File Structure
-
+```text
 chat-assistant-groq/
 ├── app.py             # Streamlit UI
 ├── main.py            # API wrapper for Groq
 ├── config.py          # Model config
 ├── .env               # Your API key
 ├── requirements.txt   # Python dependencies
-├── requirements.txt   # Python dependencies
 ├── README.md          # This file
 └── screenshots/
     └── chat_ui.png    # Example screenshot
+```
 
 
 ## Dependencies
